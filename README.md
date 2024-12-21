@@ -3,13 +3,15 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Ezzat</h1>
 <h3 align="center">I'm a Software Engineer and Flutter developer</h3>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+
 - 🔭 I’m currently working on **new challenges🤣**
 
 - 🌱 I’m currently learning **Flutter Advanced topics**
 
 - 📫 How to reach me **ezzatmahmoud08@gmail.com**
 
--![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS) 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
