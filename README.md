@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **ezzatmahmoud08@gmail.com**
 
+-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahmoud-ezzat-174b41165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud ezzat" height="30" width="40" /></a>
